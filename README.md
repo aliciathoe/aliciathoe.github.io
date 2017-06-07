@@ -1,27 +1,27 @@
 Website Outline
 Home Page
-Title
-Name of Website
-Three pages of website
-Home
-About Me
-Review
-Photo Preview
-Photo representing books
-Basis of website
-Brief summary
-Subscription Box
-Allow users to subscribe
-Input
-Button
-Featured Books
-Most recent book reviews
-Photo
-Title
-Preview
-Footer
-Name of website
-Copyright
+1. Title
+   a. Name of Website
+   b. Three pages of website
+      i. Home
+      ii. About Me
+      iii. Review
+2. Photo Preview
+   a. Photo representing books
+   b. Basis of website
+   c. Brief summary
+3. Subscription Box
+   a. Allow users to subscribe
+   b. Input
+   c. Button
+4. Featured Books
+   a. Most recent book reviews
+   b. Photo
+   c. Title
+   d. Preview
+5. Footer
+   a. Name of website
+   b. Copyright
  
 About Me Page
 Title
