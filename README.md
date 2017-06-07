@@ -24,52 +24,52 @@ Home Page
    b. Copyright
  
 About Me Page
-Title
-Name of Website
-Three pages of website
-Home
-About Me
-Review
-Subscription Box
-Allow users to subscribe
-Input
-Button
-Introduction
-Background on me
-Why I made this website
-How I choose which books
-Types of Books
-Genres I prefer to read
-To see if a book could be reviewed already
-Footer
-Name of website
-Copyright
+1. Title
+ a. Name of Website
+ b. Three pages of website
+  i. Home
+  ii. About Me
+  iii. Review
+2. Subscription Box
+ a. Allow users to subscribe
+ b. Input
+ c. Button
+3. Introduction
+ a. Background on me
+ b. Why I made this website
+ c. How I choose which books
+4. Types of Books
+ a. Genres I prefer to read
+ b. To see if a book could be reviewed already
+5. Footer
+ a. Name of website
+ b. Copyright
  
 Reviews Page
-Title
-Name of Website
-Three pages of website
-Home
-About Me
-Review
-Subscription Box
-Allow users to subscribe
-Input
-Button
-Authors Reviewed
-Organization of reviews
-Set in Alphabetical order
-Number of reviews for each author
-Request for Book Review
-If user wants a specific book
-Three inputs
-Title
-Author
-Summary
-`Button
-Footer
-Name of website
-Copyright
+1. Title
+ a. Name of Website
+ b. Three pages of website
+  i. Home
+  ii. About Me
+  iii. Review
+2. Subscription Box
+ a. Allow users to subscribe
+ b. Input
+ c. Button
+3. Authors Reviewed
+ a. Organization of reviews
+ b. Set in Alphabetical order
+ c. Number of reviews for each author
+4. Request for Book Review
+ a. If user wants a specific book
+ b. Three inputs
+  i. Title
+  ii. Author
+  iii. Summary
+ c.Button
+5. Footer
+ a. Name of website
+ b. Copyright
  
  
  
